@@ -95,7 +95,7 @@ Processo de Publicação:
 
 **Eixo X (Tempo):** O eixo horizontal mostra a data e o horário (11:01, 11:15, etc.), confirmando que é um gráfico Tempo (Timestamp).
 
-**Análise da Variação:** O padrão do gráfico — com picos altos (sinal forte, perto de -30 dBm) e quedas abruptas (sinal fraco, perto de -80 dBm ou mais) — é exatamente o que se espera de um teste de movimentação e, principalmente, do bloqueio de sinal no elevador.
+**Análise da Variação:** O padrão do gráfico — com picos altos (sinal forte, perto de -40 dBm) e quedas abruptas (sinal fraco, perto de -85 dBm ou mais) — é exatamente o que se espera de um teste de movimentação e, principalmente, do bloqueio de sinal no elevador.
 
 ### 4. Resultados e Análise do Experimento
 

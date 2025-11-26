@@ -29,7 +29,7 @@
 ### 3. Desenvolvimento
 
 **3.1. Hardware e Bibliotecas**
-
+<img src="assets\esp.jpeg">
 **Componente/Software**
 
 - Função
@@ -88,6 +88,8 @@ Processo de Publicação:
 ### 3.4. Configuração do Dashboard na Ubidots
 
 **Gráfico de Linhas (Widget):** O  gráfico de linhas é contínuo, confirmando o uso de um Line Chart ou Time-Series para rastrear a potência em tempo real.
+
+<img src="assets\grafico.png">
 
 **Eixo Y (Potência do Sinal):** O eixo vertical exibe valores em dBm (de -100 a -30), que é a unidade de medida correta para a potência do sinal, conforme descrito.
 
